@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Gallery" EntryPointType="Gallery.App" RuntimeVersion="4.0.50401.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Gallery" Source="Gallery.dll" />
+    <AssemblyPart x:Name="Gallery.Contracts" Source="Gallery.Contracts.dll" />
+    <AssemblyPart x:Name="Gallery.Model" Source="Gallery.Model.dll" />
+    <AssemblyPart x:Name="MefMvvm" Source="MefMvvm.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls.Toolkit" Source="System.Windows.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+  <Deployment.ExternalParts>
+    <ExtensionPart Source="System.ComponentModel.Composition.zip" />
+    <ExtensionPart Source="System.ComponentModel.Composition.Initialization.zip" />
+    <ExtensionPart Source="System.Windows.Controls.zip" />
+    <ExtensionPart Source="System.Windows.Controls.Navigation.zip" />
+  </Deployment.ExternalParts>
+</Deployment>

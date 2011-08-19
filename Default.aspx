@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head id="Head1" runat="server">
-	<title>Gallery</title>
+	<title>MobileMe Gallery</title>
 	<style type="text/css">
 		html, body
 		{
@@ -26,7 +26,7 @@
 		{
 			//if (!HttpContext.Current.Items.Contains("username"))
 			//{
-			//	Response.Redirect("/emily_parker");
+			//	Response.Redirect(string.Format("/{0}", ConfigurationManager.AppSettings["DefaultUsername"]));
 			//}
 		}
 	</script>
@@ -75,9 +75,9 @@
 				<param name="source" value="ClientBin/Gallery.xap"/>
 				<param name="onError" value="onSilverlightError" />
 				<param name="background" value="white" />
-				<param name="minRuntimeVersion" value="3.0.40624.0" />
+				<param name="minRuntimeVersion" value="4.0.50524.0" />
 				<param name="autoUpgrade" value="true" />
-				<param name="initParams" value="username=<%if (HttpContext.Current.Items.Contains("username")) {Response.Write(HttpContext.Current.Items["username"].ToString()); HttpContext.Current.Items.Remove("username");}else{Response.Write("anderly");} %>" />
+				<param name="initParams" value="CurrentUsername=anderly,ConfigServiceUri=<%Response.Write(ConfigurationManager.AppSettings["ConfigServiceUri"]);%>" />
 					<table style="height:100%;width:100%;background-color:#000;color:#fff;">
 						<tbody>
 							<tr>
@@ -90,7 +90,7 @@
 														<tbody>
 															<tr>
 																<td align="center" valign="bottom">
-																	<span style="color:#fff;font-weight:bold;font-family:Verdana;font-size:10pt;">Silverlight is required. <br /><a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=3.0.40624.0" style="color:#33B6FF">Click Here to Install Silverlight</a></span><br /><br />
+																	<span style="color:#fff;font-weight:bold;font-family:Verdana;font-size:10pt;">Silverlight is required. <br /><a href="http://go.microsoft.com/fwlink/?LinkID=149156&v=4.0.50524.0" style="color:#33B6FF">Click Here to Install Silverlight</a></span><br /><br />
 																</td>
 															</tr>
 														</tbody>

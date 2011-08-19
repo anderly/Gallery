@@ -1,5 +1,21 @@
-C:\Users\Adam\Documents\Visual Studio 2010\Projects\Gallery\Gallery.Web\bin\Gallery.Web.dll
-C:\Users\Adam\Documents\Visual Studio 2010\Projects\Gallery\Gallery.Web\bin\Gallery.Web.pdb
-C:\Users\Adam\Documents\Visual Studio 2010\Projects\Gallery\Gallery.Web\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Adam\Documents\Visual Studio 2010\Projects\Gallery\Gallery.Web\obj\Debug\Gallery.Web.dll
-C:\Users\Adam\Documents\Visual Studio 2010\Projects\Gallery\Gallery.Web\obj\Debug\Gallery.Web.pdb
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\clientaccesspolicy.xml
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\Gallery.Web.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\Gallery.Web.pdb
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\Gallery.Web.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\Gallery.Web.pdb
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\System.Windows.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\System.Net.dll
+F:\Code\Gallery\Gallery.Web\bin\Gallery.Web.dll
+F:\Code\Gallery\Gallery.Web\bin\Gallery.Web.pdb
+F:\Code\Gallery\Gallery.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\Gallery\Gallery.Web\obj\Debug\Gallery.Web.dll
+F:\Code\Gallery\Gallery.Web\obj\Debug\Gallery.Web.pdb
+E:\Code\Gallery\Gallery.Web\bin\clientaccesspolicy.xml
+E:\Code\Gallery\Gallery.Web\bin\Gallery.Web.dll
+E:\Code\Gallery\Gallery.Web\bin\Gallery.Web.pdb
+E:\Code\Gallery\Gallery.Web\bin\Microsoft.ServiceModel.Web.dll
+E:\Code\Gallery\Gallery.Web\bin\Microsoft.ServiceModel.Web.pdb
+E:\Code\Gallery\Gallery.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\Gallery\Gallery.Web\obj\Debug\Gallery.Web.dll
+E:\Code\Gallery\Gallery.Web\obj\Debug\Gallery.Web.pdb

@@ -1,0 +1,8 @@
+E:\Code\Gallery\Gallery.Web\bin\clientaccesspolicy.xml
+E:\Code\Gallery\Gallery.Web\bin\Gallery.Web.dll
+E:\Code\Gallery\Gallery.Web\bin\Gallery.Web.pdb
+E:\Code\Gallery\Gallery.Web\bin\Microsoft.ServiceModel.Web.dll
+E:\Code\Gallery\Gallery.Web\bin\Microsoft.ServiceModel.Web.pdb
+E:\Code\Gallery\Gallery.Web\obj\Release\ResolveAssemblyReference.cache
+E:\Code\Gallery\Gallery.Web\obj\Release\Gallery.Web.dll
+E:\Code\Gallery\Gallery.Web\obj\Release\Gallery.Web.pdb
