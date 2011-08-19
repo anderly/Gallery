@@ -1,0 +1,8 @@
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\clientaccesspolicy.xml
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\Gallery.Web.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\Gallery.Web.pdb
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\Gallery.Web.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\obj\Debug\Gallery.Web.pdb
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\System.Windows.dll
+C:\Documents and Settings\crpaanderly\Desktop\Silverlight\Silverlight3\Gallery\Gallery.Web\bin\System.Net.dll

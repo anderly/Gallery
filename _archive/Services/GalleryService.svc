@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Gallery.Web.Services.GalleryService" CodeBehind="GalleryService.svc.cs" %>
